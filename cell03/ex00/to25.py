@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-m_input = float(input("Enter a number less than 25:\n"))  
+m_input = float(input("Enter a number less than 25:"))  
 if m_input >= 25:  
     print("Error")
 else:
