@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 def main():
     n1 = float(input("Enter the first number:\n"))
     

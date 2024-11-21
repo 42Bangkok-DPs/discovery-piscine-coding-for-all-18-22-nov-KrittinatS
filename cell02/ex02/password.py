@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+
+# Define the correct password
 password = "1234567"
 
 def main():
