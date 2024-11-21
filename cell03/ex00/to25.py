@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 m_input = float(input("Enter a number less than 25:\n"))  
 if m_input >= 25:  
     print("Error")

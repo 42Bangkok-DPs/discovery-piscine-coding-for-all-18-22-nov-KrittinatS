@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 def main():
     while True:
         y = input("What you gotta say : ")
